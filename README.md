@@ -1,4 +1,4 @@
-Speaker Recognition using Deep Reshape Dimensions
+# Speaker Recognition using Deep Reshape Dimensions - Training from scratch 
 ![image](https://github.com/user-attachments/assets/218a5756-d2b7-4d3b-9cd9-e6d3f682966e)
 
 Scaled down the ReDimNet model to a small-ReDimNet version with 580k parameters. Built a training pipeline based on the cross-validation algorithm. Developed and tested 2 model training algorithms
