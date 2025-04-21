@@ -15,7 +15,7 @@ Key contributions:
 ## 🧱 Technical Details
 
 - **Model Architecture**: Small ReDimNet (Deep Reshape Dimensions Network)
-- **Spoofing Detection**: SRPL (Speaker Reciprocal Points Learning)
+- **Spoofing Detection**: Unknown Labeling & SRPL (Speaker Reciprocal Points Learning)
 - **Embedding Space**: Optimized for class separation and adversarial robustness
 - **Evaluation Protocols**: Cross-validation on clean/noisy/synthetic data
 - **Training Losses**:
